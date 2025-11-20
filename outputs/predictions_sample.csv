@@ -1,0 +1,5 @@
+tenure,MonthlyCharges,TotalCharges,Contract_One year,Contract_Two year,PaymentMethod_Credit card,PaymentMethod_Electronic check,true_churn,pred_churn,pred_proba
+12,49.95,600.0,True,False,False,False,0,0,0.29
+3,73.45,220.35,False,False,False,True,1,1,0.75
+22,89.1,1949.4,False,True,True,False,0,0,0.0
+2,70.7,151.65,False,False,False,True,1,1,0.78

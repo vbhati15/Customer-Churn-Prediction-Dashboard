@@ -1,0 +1,8 @@
+feature,importance
+PaymentMethod_Electronic check,0.3053614852225964
+tenure,0.23214319117096896
+MonthlyCharges,0.21113355780022447
+TotalCharges,0.1563695820640265
+Contract_One year,0.04999098124098124
+Contract_Two year,0.030152717652717657
+PaymentMethod_Credit card,0.014848484848484852

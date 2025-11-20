@@ -1,0 +1,16 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+C001,1,29.85,29.85,Month-to-month,Electronic check,1
+C002,34,56.95,1889.5,One year,Bank transfer,0
+C003,2,53.85,108.15,Month-to-month,Electronic check,1
+C004,45,42.30,1840.75,Two year,Credit card,0
+C005,2,70.70,151.65,Month-to-month,Electronic check,1
+C006,8,99.65,820.5,One year,Bank transfer,0
+C007,22,89.10,1949.4,Two year,Credit card,0
+C008,10,29.75,301.9,Month-to-month,Electronic check,1
+C009,28,104.80,263.75,One year,Bank transfer,0
+C010,62,56.15,3487.95,Two year,Credit card,0
+C011,5,42.30,184.5,Month-to-month,Electronic check,1
+C012,12,49.95,600.0,One year,Bank transfer,0
+C013,3,73.45,220.35,Month-to-month,Electronic check,1
+C014,40,105.50,4200.5,Two year,Credit card,0
+C015,20,80.25,1605.0,One year,Bank transfer,0
